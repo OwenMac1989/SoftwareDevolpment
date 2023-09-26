@@ -1,0 +1,38 @@
+User Stories
+Home Page – Tyler
+As a consumer, I want a homepage that is inviting, easy read, and intuitive to use, so I feel encouraged to stay on the website. (2)
+As a consumer, I want to quickly get a sense of the company through the homepage, so I can make a decision whether I want to give them my business. (0)
+As a consumer, I want a slideshow to showcase the products being offered quickly and efficiently, so I can decide if I am interested in them. (2)
+As a user I want a Navigation Menu on every page so I can access the other pages of the website (2)
+
+Contact Page – Nolan
+As a user I want to easily find the ways of contacting you. (2)  As a user I would like multiple ways of contact so that I can use my preferred method. (1)
+
+Items Page – Ryan
+As a consumer, I want to be able to navigate easily through the merchandise so that I can find what I want quickly. (1) 
+As a consumer, I want to be able to filter between categories of art and crafts(paintings, jewelry, sculptures, etc.) so I can find what I want quickly (4)  As a consumer, I want to be able to see which items I have selected so I can keep track of them. (2)  
+As a consumer, I want to be able to see which is cheapest to most expensive so I can keep within my budget (3) 
+As a consumer I would like a running total for my items so that I can keep track of my total cost (3)
+
+As a consumer, I want to see the prices clearly for each item so I can quickly decide if its in my budget. (1)  As a consumer, I want to see which items might be on clearance so I can take advantage of Any deals. (2)  As a consumer, I want to see specific details of each item so that I can make an informed decision about buying the product. (2) 
+
+About Page
+As a consumer, I want a background of the company and who I am purchasing goods from so that I’m informed. (1) 
+As a consumer, I want to know the origin of the goods and that they are made ethically so that I can feel good about my purchase. (1) 
+As a consumer, I want to put a face to the company and people I am doing business with so I feel like I have a relationship with the company. (1) 
+As a consumer, I want the about to be easy to read and locate to enhance my experience. (1)
+
+
+
+Logo and Name of Site – Iridian
+As a user I would like to get an idea of the company based of the name and logo, so I know what the company is about. (3) 
+As a user I would like the logo and website name to be readable so I can see it right away. (1) 
+As a user I would like the logo to be clickable so it can take me directly to the homepage. (1) 
+As a user I would like the company name easy to find so I know what the store is called and don’t have to be searching for it (1)
+
+Styling  - Thatcher
+As a user I want the Hamburger Menu to be placed on the left of every page so I can easily find it in a familiar place (1) 
+As a user I want the Hamburger Menu items to have responsiveness so I can easily navigate the website (2) 
+As a user I would like the Website to have a general style/theme so I can experience a pleasant and nice to look at website (2) 
+ As a user I would like the images to be easy to see and a high quality, so I can really get a good understanding of the products/company from the images (2)
+  As a user I would like the images to have alt tags so if I am visually impaired my Site Narrator can easily communicate to me a description of the images (1)
